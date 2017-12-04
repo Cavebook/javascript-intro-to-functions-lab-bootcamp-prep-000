@@ -1,6 +1,6 @@
 function shout(Hello!) {
 return 'Hello!'.ToUpperCase()
 }
-function whisper(Hello!) {
-  return 'Hello!'.ToLowerCase()
+function whisper('HELLO') {
+  return 'HELLO'.ToLowerCase()
 }

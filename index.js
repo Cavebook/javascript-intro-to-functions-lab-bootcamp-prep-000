@@ -1,3 +1,3 @@
-function shout('Hello!') {
+function shout(Hello!) {
 return 'Hello!'.ToUpperCase()
 }
